@@ -19,11 +19,11 @@
 #### For simplicity , I just installed nginx web server instaed of web application and in future I will test with real life application ...
 
 ### To test  this, you need to clone the Repositiry.....
-git clone https://github.com/mbhuiyanst/ec2-autoscalling.git
+git clone https://github.com/mbhuiyanst/aws_application_Loadbalance_auto_scalling.git
 
 Then
 
-cd ec2-autoscalling
+cd aws_application_Loadbalance_auto_scalling
 
 #### Then create ssh-key locally when you are on the ec2-autoscalling directory
 
